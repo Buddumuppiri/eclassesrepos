@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "Adfdemo2025"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
